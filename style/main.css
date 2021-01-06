@@ -1,0 +1,19 @@
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+.representative {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section {
+  border: 1px solid black;
+  padding: 15px 15px;
+  width: fit-content;
+  block-size: fit-content;
+}
